@@ -67,5 +67,3 @@ def mat(*arg):
 
 #pm.button(label = 'applyMaterial', command=main)
 #pm.showWindow()
-
-main()
